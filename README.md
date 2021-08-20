@@ -7,6 +7,9 @@ This project is a Chatbot deployed on discord channel. It is capable of answerin
 ## Flowchart
 ![flowchart.png](https://github.com/kaushikj/Question-Answer-BERT-Dischord-Bot/blob/main/screenshots/flowchart.jpeg)
 
+## Poster
+![poster.png](https://github.com/kaushikj/Question-Answer-BERT-Dischord-Bot/blob/main/screenshots/poster.jpg)
+
 # Setting up Code
 - pip install -r requirements.txt
 
