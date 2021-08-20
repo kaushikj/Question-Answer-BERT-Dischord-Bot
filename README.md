@@ -13,7 +13,7 @@ This project is a Chatbot deployed on discord channel. It is capable of answerin
 - bert_fine: For Training and finetuning the model
 - predict_answer: A chatbot on Dischord and Final API
 
-# Developers:
+# Developers
 - Kaushik Jeyaraman: kaushikjjj@gmail.com
 - Youngheng Zou
 - Hanxiao Chen
