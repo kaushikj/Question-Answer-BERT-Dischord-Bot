@@ -4,12 +4,6 @@ This project is a Chatbot deployed on discord channel. It is capable of answerin
 ## Poster
 ![poster.png](https://github.com/kaushikj/Question-Answer-BERT-Dischord-Bot/blob/main/screenshots/poster.jpg)
 
-## Flowchart
-![flowchart.png](https://github.com/kaushikj/Question-Answer-BERT-Dischord-Bot/blob/main/screenshots/flowchart.jpeg)
-
-## Output Screenshot
-![Screenshot.png](https://github.com/kaushikj/Question-Answer-BERT-Dischord-Bot/blob/main/screenshots/discord_picture.png)
-
 # Setting up Code
 - pip install -r requirements.txt
 
